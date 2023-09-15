@@ -1,0 +1,9 @@
+# generator
+qrcode[pil]
+# scanner
+opencv-python
+pyzbar
+numpy
+requests
+beautifulsoup4
+lxml
